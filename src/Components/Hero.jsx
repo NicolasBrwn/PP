@@ -9,7 +9,7 @@ const Hero = () => {
       <div className='max-w-7xl mx-auto'>
         <div className="hero min-h-screen">
           <div className="hero-content flex-col lg:flex-row-reverse">
-            <img src={me} data-aos="fade-left" className="max-w-sm mb-7 md:mb-0 rounded-full shadow-2xl" />
+            <img src={shafin} data-aos="fade-left" className="max-w-sm mb-7 md:mb-0 rounded-full shadow-2xl" />
             <div data-aos="fade-right">
               <h1 className="text-3xl md:text-5xl text-center md:text-left font-bold"><span className='text-gray-400'>Hi, This is </span> Syed Shafin Ahmed</h1>
               <p className="text-sm md:text-lg py-6 px-10 md:px-0 text-center md:text-left text-gray-400">
